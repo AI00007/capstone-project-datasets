@@ -1,0 +1,1256 @@
+[
+    {
+        "coordinates": [
+            45.07012,
+            -64.44177
+        ],
+        "address": "9319 Commercial St",
+        "lot_data": [
+            98377,
+            9140
+        ]
+    },
+    {
+        "coordinates": [
+            44.205798,
+            -66.140345
+        ],
+        "address": "8762 Hwy 1",
+        "lot_data": [
+            44817,
+            4164
+        ]
+    },
+    {
+        "coordinates": [
+            45.970144,
+            -61.133945
+        ],
+        "address": "9243  Hwy 105",
+        "lot_data": [
+            1062059,
+            98669
+        ]
+    },
+    {
+        "coordinates": [
+            45.81197,
+            -64.20317
+        ],
+        "address": "213 South Albion St",
+        "lot_data": [
+            50774,
+            4717
+        ]
+    },
+    {
+        "coordinates": [
+            44.375846,
+            -64.608163
+        ],
+        "address": "3916 Highway 325",
+        "lot_data": [
+            15119,
+            1405
+        ]
+    },
+    {
+        "coordinates": [
+            44.763606,
+            -65.499392
+        ],
+        "address": "4793 Highway 1",
+        "lot_data": [
+            22394,
+            2080
+        ]
+    },
+    {
+        "coordinates": [
+            43.521584,
+            -65.615535
+        ],
+        "address": "3714 Route 3",
+        "lot_data": [
+            61825,
+            5744
+        ]
+    },
+    {
+        "coordinates": [
+            45.613332,
+            -62.009465
+        ],
+        "address": "3085 Hwy 4",
+        "lot_data": [
+            58772,
+            5460
+        ]
+    },
+    {
+        "coordinates": [
+            46.34692,
+            -60.998744
+        ],
+        "address": "231 Cranton Cross Rd",
+        "lot_data": [
+            19590,
+            1820
+        ]
+    },
+    {
+        "coordinates": [
+            44.698009,
+            -63.604116
+        ],
+        "address": "626  WINDMILL RD",
+        "lot_data": [
+            149503,
+            13889
+        ]
+    },
+    {
+        "coordinates": [
+            44.3914,
+            -64.527287
+        ],
+        "address": "260 Highway 10",
+        "lot_data": [
+            293861,
+            27301
+        ]
+    },
+    {
+        "coordinates": [
+            44.635926,
+            -63.677094
+        ],
+        "address": "1075 ST MARGARETS BAY RD",
+        "lot_data": [
+            58613,
+            5445
+        ]
+    },
+    {
+        "coordinates": [
+            46.087491,
+            -60.780334
+        ],
+        "address": "8250 Highway 105",
+        "lot_data": [
+            3106400,
+            288594
+        ]
+    },
+    {
+        "coordinates": [
+            43.844682,
+            -66.108973
+        ],
+        "address": "65 STARRS RD",
+        "lot_data": [
+            97660,
+            9073
+        ]
+    },
+    {
+        "coordinates": [
+            45.04198,
+            -64.73443
+        ],
+        "address": "174 Commercial St",
+        "lot_data": [
+            24056,
+            2235
+        ]
+    },
+    {
+        "coordinates": [
+            44.3763,
+            -64.32552
+        ],
+        "address": "150 Victoria Rd",
+        "lot_data": [
+            4671,
+            434
+        ]
+    },
+    {
+        "coordinates": [
+            44.729304,
+            -65.491358
+        ],
+        "address": "9543 Highway 8",
+        "lot_data": [
+            23952,
+            2225
+        ]
+    },
+    {
+        "coordinates": [
+            44.546617,
+            -64.724236
+        ],
+        "address": "5254 Highway 10",
+        "lot_data": [
+            6892,
+            640
+        ]
+    },
+    {
+        "coordinates": [
+            44.391452,
+            -64.527727
+        ],
+        "address": "260 Highway 10",
+        "lot_data": [
+            293861,
+            27301
+        ]
+    },
+    {
+        "coordinates": [
+            44.3718,
+            -64.537683
+        ],
+        "address": "2742 Hwy 325",
+        "lot_data": [
+            194216,
+            18043
+        ]
+    },
+    {
+        "coordinates": [
+            44.377406,
+            -64.33995
+        ],
+        "address": "11261 Hwy 3",
+        "lot_data": [
+            119967,
+            11145
+        ]
+    },
+    {
+        "coordinates": [
+            44.546457,
+            -64.236395
+        ],
+        "address": "3839 Highway 3",
+        "lot_data": [
+            8247,
+            766
+        ]
+    },
+    {
+        "coordinates": [
+            44.453476,
+            -64.421791
+        ],
+        "address": "199 Cornwall Rd",
+        "lot_data": [
+            129386,
+            12020
+        ]
+    },
+    {
+        "coordinates": [
+            45.143411,
+            -61.981162
+        ],
+        "address": "8152 Highway 7",
+        "lot_data": [
+            10900,
+            1013
+        ]
+    },
+    {
+        "coordinates": [
+            44.598344,
+            -65.771241
+        ],
+        "address": "510 Route 303",
+        "lot_data": [
+            134690,
+            12513
+        ]
+    },
+    {
+        "coordinates": [
+            44.724519,
+            -63.703957
+        ],
+        "address": "30 Gary Martin Dr",
+        "lot_data": [
+            64269,
+            5971
+        ]
+    },
+    {
+        "coordinates": [
+            44.65309,
+            -63.59326
+        ],
+        "address": "2499 Robie St",
+        "lot_data": [
+            25831,
+            2400
+        ]
+    },
+    {
+        "coordinates": [
+            44.59405,
+            -63.63883
+        ],
+        "address": "503 Old Sambro Rd",
+        "lot_data": [
+            131641,
+            12230
+        ]
+    },
+    {
+        "coordinates": [
+            44.688267,
+            -63.87993
+        ],
+        "address": "5210 St Margarets Bay Rd",
+        "lot_data": [
+            255347,
+            23723
+        ]
+    },
+    {
+        "coordinates": [
+            44.78529,
+            -63.59778
+        ],
+        "address": "2599 Rocky Lake Dr",
+        "lot_data": [
+            25683,
+            2386
+        ]
+    },
+    {
+        "coordinates": [
+            44.6438,
+            -63.60359
+        ],
+        "address": "6515 Quinpool Rd",
+        "lot_data": [
+            4951,
+            460
+        ]
+    },
+    {
+        "coordinates": [
+            44.84554,
+            -63.801513
+        ],
+        "address": "31 Highway 1",
+        "lot_data": [
+            219813,
+            20421
+        ]
+    },
+    {
+        "coordinates": [
+            45.339176,
+            -64.786205
+        ],
+        "address": "3554 Highway 209",
+        "lot_data": [
+            40881,
+            3798
+        ]
+    },
+    {
+        "coordinates": [
+            44.63619,
+            -63.67736
+        ],
+        "address": "1075 St Margarets Bay Rd",
+        "lot_data": [
+            58613,
+            5445
+        ]
+    },
+    {
+        "coordinates": [
+            44.68359,
+            -63.66053
+        ],
+        "address": "389 Bedford Hwy",
+        "lot_data": [
+            48218,
+            4480
+        ]
+    },
+    {
+        "coordinates": [
+            44.65921,
+            -63.67086
+        ],
+        "address": "15 Fairfax Dr",
+        "lot_data": [
+            122853,
+            11413
+        ]
+    },
+    {
+        "coordinates": [
+            45.056378,
+            -64.470654
+        ],
+        "address": "5477 PROSPECT RD",
+        "lot_data": [
+            273694,
+            25427
+        ]
+    },
+    {
+        "coordinates": [
+            44.598104,
+            -65.77121
+        ],
+        "address": "510 ROUTE 303",
+        "lot_data": [
+            134690,
+            12513
+        ]
+    },
+    {
+        "coordinates": [
+            44.928516,
+            -63.53608
+        ],
+        "address": "6757 Highway 2",
+        "lot_data": [
+            786950,
+            73110
+        ]
+    },
+    {
+        "coordinates": [
+            45.649047,
+            -61.439658
+        ],
+        "address": "13239 TRANS CANADA HWY",
+        "lot_data": [
+            28336,
+            2632
+        ]
+    },
+    {
+        "coordinates": [
+            45.350253,
+            -63.310668
+        ],
+        "address": "86 CONNECTOR RD",
+        "lot_data": [
+            42902,
+            3986
+        ]
+    },
+    {
+        "coordinates": [
+            44.60798,
+            -63.67309
+        ],
+        "address": "599 Prospect Rd",
+        "lot_data": [
+            101492,
+            9429
+        ]
+    },
+    {
+        "coordinates": [
+            44.6835,
+            -63.6747
+        ],
+        "address": "122 Kearney Lake Rd",
+        "lot_data": [
+            60844,
+            5653
+        ]
+    },
+    {
+        "coordinates": [
+            44.73496,
+            -63.79152
+        ],
+        "address": "2200 Hammonds Plains Rd",
+        "lot_data": [
+            70387,
+            6539
+        ]
+    },
+    {
+        "coordinates": [
+            44.69827,
+            -63.60407
+        ],
+        "address": "626 Windmill Rd",
+        "lot_data": [
+            149503,
+            13889
+        ]
+    },
+    {
+        "coordinates": [
+            45.98578,
+            -59.99357
+        ],
+        "address": "5790 Louisbourg Hwy",
+        "lot_data": [
+            43691,
+            4059
+        ]
+    },
+    {
+        "coordinates": [
+            45.70742,
+            -63.28422
+        ],
+        "address": "389 Main St",
+        "lot_data": [
+            7643,
+            710
+        ]
+    },
+    {
+        "coordinates": [
+            45.067305,
+            -64.101571
+        ],
+        "address": "3328 Hwy 215",
+        "lot_data": [
+            42314,
+            3931
+        ]
+    },
+    {
+        "coordinates": [
+            45.09146,
+            -64.50108
+        ],
+        "address": "466 Aldershot Rd",
+        "lot_data": [
+            46767,
+            4345
+        ]
+    },
+    {
+        "coordinates": [
+            45.6103,
+            -62.0013
+        ],
+        "address": "32 Nova Landing",
+        "lot_data": [
+            43471,
+            4039
+        ]
+    },
+    {
+        "coordinates": [
+            44.636765,
+            -64.070906
+        ],
+        "address": "90 Main St",
+        "lot_data": [
+            311346,
+            28925
+        ]
+    },
+    {
+        "coordinates": [
+            44.77644,
+            -63.69508
+        ],
+        "address": "857 Sackville Dr",
+        "lot_data": [
+            70350,
+            6536
+        ]
+    },
+    {
+        "coordinates": [
+            44.67303,
+            -63.48108
+        ],
+        "address": "1207 Cole Harbour Rd",
+        "lot_data": [
+            28724,
+            2669
+        ]
+    },
+    {
+        "coordinates": [
+            44.692591,
+            -63.545737
+        ],
+        "address": "200 Waverley Rd",
+        "lot_data": [
+            48647,
+            4519
+        ]
+    },
+    {
+        "coordinates": [
+            45.10328,
+            -64.305161
+        ],
+        "address": "11671 Highway 1",
+        "lot_data": [
+            3924,
+            365
+        ]
+    },
+    {
+        "coordinates": [
+            45.084755,
+            -64.397515
+        ],
+        "address": "10095 Highway 1",
+        "lot_data": [
+            154957,
+            14396
+        ]
+    },
+    {
+        "coordinates": [
+            45.05691,
+            -64.47046
+        ],
+        "address": "5477 Prospect Rd",
+        "lot_data": [
+            273694,
+            25427
+        ]
+    },
+    {
+        "coordinates": [
+            44.96969,
+            -64.9385
+        ],
+        "address": "741 Central Ave",
+        "lot_data": [
+            57872,
+            5376
+        ]
+    },
+    {
+        "coordinates": [
+            44.44997,
+            -64.38093
+        ],
+        "address": "33 Edgewater St",
+        "lot_data": [
+            34846,
+            3237
+        ]
+    },
+    {
+        "coordinates": [
+            44.045491,
+            -64.72221
+        ],
+        "address": "169 Bristol Ave",
+        "lot_data": [
+            58508,
+            5436
+        ]
+    },
+    {
+        "coordinates": [
+            44.407869,
+            -65.996079
+        ],
+        "address": "4544 Hwy 1",
+        "lot_data": [
+            79343,
+            7371
+        ]
+    },
+    {
+        "coordinates": [
+            44.302588,
+            -66.121281
+        ],
+        "address": "999 Highway 1",
+        "lot_data": [
+            227813,
+            21165
+        ]
+    },
+    {
+        "coordinates": [
+            44.943608,
+            -65.066673
+        ],
+        "address": "369 Main St",
+        "lot_data": [
+            14409,
+            1339
+        ]
+    },
+    {
+        "coordinates": [
+            44.9242,
+            -62.53991
+        ],
+        "address": "22512 Highway 7",
+        "lot_data": [
+            13129,
+            1220
+        ]
+    },
+    {
+        "coordinates": [
+            45.649021,
+            -61.43913
+        ],
+        "address": "13239 Highway 104",
+        "lot_data": [
+            28336,
+            2632
+        ]
+    },
+    {
+        "coordinates": [
+            45.567609,
+            -62.644461
+        ],
+        "address": "5197 East River Rd",
+        "lot_data": [
+            177048,
+            16448
+        ]
+    },
+    {
+        "coordinates": [
+            45.576314,
+            -62.725743
+        ],
+        "address": "2500 Truro Rd",
+        "lot_data": [
+            282478,
+            26243
+        ]
+    },
+    {
+        "coordinates": [
+            46.2064,
+            -60.25188
+        ],
+        "address": "183 Commercial St",
+        "lot_data": [
+            51307,
+            4767
+        ]
+    },
+    {
+        "coordinates": [
+            45.567779,
+            -62.644093
+        ],
+        "address": "5197 East River Rd",
+        "lot_data": [
+            177048,
+            16448
+        ]
+    },
+    {
+        "coordinates": [
+            45.67677,
+            -62.71297
+        ],
+        "address": "91 Church St",
+        "lot_data": [
+            25792,
+            2396
+        ]
+    },
+    {
+        "coordinates": [
+            44.926951,
+            -63.536457
+        ],
+        "address": "6757 Hwy 2",
+        "lot_data": [
+            786950,
+            73110
+        ]
+    },
+    {
+        "coordinates": [
+            43.773007,
+            -65.329642
+        ],
+        "address": "41 Falls Lane",
+        "lot_data": [
+            76639,
+            7120
+        ]
+    },
+    {
+        "coordinates": [
+            46.13537,
+            -60.19114
+        ],
+        "address": "565 George St",
+        "lot_data": [
+            3999,
+            372
+        ]
+    },
+    {
+        "coordinates": [
+            46.087385,
+            -60.252977
+        ],
+        "address": "1948 Kings Rd",
+        "lot_data": [
+            74820,
+            6951
+        ]
+    },
+    {
+        "coordinates": [
+            45.3497,
+            -63.31088
+        ],
+        "address": "86 Connector Rd",
+        "lot_data": [
+            42902,
+            3986
+        ]
+    },
+    {
+        "coordinates": [
+            45.36797,
+            -63.31782
+        ],
+        "address": "7 Robie St",
+        "lot_data": [
+            39012,
+            3624
+        ]
+    },
+    {
+        "coordinates": [
+            44.975053,
+            -63.50736
+        ],
+        "address": "248 Hwy 214",
+        "lot_data": [
+            182570,
+            16961
+        ]
+    },
+    {
+        "coordinates": [
+            44.974574,
+            -64.110053
+        ],
+        "address": "4164 Route 1",
+        "lot_data": [
+            48342,
+            4491
+        ]
+    },
+    {
+        "coordinates": [
+            46.08772,
+            -60.780122
+        ],
+        "address": "8250 Highway 105",
+        "lot_data": [
+            3106400,
+            288594
+        ]
+    },
+    {
+        "coordinates": [
+            45.72544,
+            -63.87941
+        ],
+        "address": "4602 Main St",
+        "lot_data": [
+            188608,
+            17522
+        ]
+    },
+    {
+        "coordinates": [
+            44.994092,
+            -64.148215
+        ],
+        "address": "2113 Highway 1",
+        "lot_data": [
+            97635,
+            9071
+        ]
+    },
+    {
+        "coordinates": [
+            44.989904,
+            -64.119837
+        ],
+        "address": "169 Wentworth Rd",
+        "lot_data": [
+            33380,
+            3101
+        ]
+    },
+    {
+        "coordinates": [
+            43.84429,
+            -66.10897
+        ],
+        "address": "65 Starrs Rd",
+        "lot_data": [
+            97660,
+            9073
+        ]
+    },
+    {
+        "coordinates": [
+            46.19703,
+            -59.95779
+        ],
+        "address": "632 Main St",
+        "lot_data": [
+            85983,
+            7988
+        ]
+    },
+    {
+        "coordinates": [
+            43.85169,
+            -66.11469
+        ],
+        "address": "632 Main St",
+        "lot_data": [
+            85983,
+            7988
+        ]
+    },
+    {
+        "coordinates": [
+            44.65485,
+            -63.52858
+        ],
+        "address": "275 Baker Dr",
+        "lot_data": [
+            82761,
+            7689
+        ]
+    },
+    {
+        "coordinates": [
+            44.744233,
+            -63.285056
+        ],
+        "address": "5204 Highway 7",
+        "lot_data": [
+            587417,
+            54573
+        ]
+    },
+    {
+        "coordinates": [
+            45.612908,
+            -62.013593
+        ],
+        "address": "3084 Highway 4",
+        "lot_data": [
+            26939,
+            2503
+        ]
+    },
+    {
+        "coordinates": [
+            45.06756,
+            -64.566087
+        ],
+        "address": "7194 Highway 1",
+        "lot_data": [
+            76291,
+            7088
+        ]
+    },
+    {
+        "coordinates": [
+            44.661847,
+            -63.656958
+        ],
+        "address": "280 Lacewood Dr",
+        "lot_data": [
+            14729,
+            1368
+        ]
+    },
+    {
+        "coordinates": [
+            44.691112,
+            -63.584768
+        ],
+        "address": "10 Highfield Park Dr",
+        "lot_data": [
+            40236,
+            3738
+        ]
+    },
+    {
+        "coordinates": [
+            44.706751,
+            -63.564133
+        ],
+        "address": "229 Countryview Dr",
+        "lot_data": [
+            88033,
+            8179
+        ]
+    },
+    {
+        "coordinates": [
+            44.6591,
+            -63.5511
+        ],
+        "address": "219 Pleasant St",
+        "lot_data": [
+            7308,
+            679
+        ]
+    },
+    {
+        "coordinates": [
+            44.677508,
+            -63.580216
+        ],
+        "address": "220 Victoria Rd",
+        "lot_data": [
+            12483,
+            1160
+        ]
+    },
+    {
+        "coordinates": [
+            44.686323,
+            -63.523186
+        ],
+        "address": "308 MAIN ST",
+        "lot_data": [
+            13051,
+            1213
+        ]
+    },
+    {
+        "coordinates": [
+            44.635271,
+            -63.571417
+        ],
+        "address": "5450 INGLIS ST",
+        "lot_data": [
+            17968,
+            1669
+        ]
+    },
+    {
+        "coordinates": [
+            44.693914,
+            -63.503328
+        ],
+        "address": "575 Main St",
+        "lot_data": [
+            115197,
+            10702
+        ]
+    },
+    {
+        "coordinates": [
+            44.671474,
+            -63.532971
+        ],
+        "address": "581 Portland St",
+        "lot_data": [
+            46184,
+            4291
+        ]
+    },
+    {
+        "coordinates": [
+            45.360579,
+            -63.288995
+        ],
+        "address": "141 Willow St",
+        "lot_data": [
+            5025,
+            467
+        ]
+    },
+    {
+        "coordinates": [
+            44.625828,
+            -63.617407
+        ],
+        "address": "173 Herring Cove Rd",
+        "lot_data": [
+            49434,
+            4593
+        ]
+    },
+    {
+        "coordinates": [
+            45.369009,
+            -63.272073
+        ],
+        "address": "30 Main St",
+        "lot_data": [
+            6990,
+            649
+        ]
+    },
+    {
+        "coordinates": [
+            44.7601,
+            -63.6597
+        ],
+        "address": "220 Cobequid Rd",
+        "lot_data": [
+            39683,
+            3687
+        ]
+    },
+    {
+        "coordinates": [
+            46.7018,
+            -60.3606
+        ],
+        "address": "35688 Cabot Trail",
+        "lot_data": [
+            24647,
+            2290
+        ]
+    },
+    {
+        "coordinates": [
+            44.61271,
+            -63.49046
+        ],
+        "address": "72 Cow Bay Rd",
+        "lot_data": [
+            75477,
+            7012
+        ]
+    },
+    {
+        "coordinates": [
+            45.405914,
+            -64.325235
+        ],
+        "address": "4049 Eastern Ave",
+        "lot_data": [
+            28922,
+            2687
+        ]
+    },
+    {
+        "coordinates": [
+            43.841661,
+            -65.054825
+        ],
+        "address": "1630 Route 103",
+        "lot_data": [
+            98660,
+            9166
+        ]
+    },
+    {
+        "coordinates": [
+            44.88209,
+            -63.52093
+        ],
+        "address": "440 Bell Blvd",
+        "lot_data": [
+            94978210,
+            8823773
+        ]
+    },
+    {
+        "coordinates": [
+            44.72701,
+            -63.7038
+        ],
+        "address": "51 Jam Lane",
+        "lot_data": [
+            78610,
+            7303
+        ]
+    },
+    {
+        "coordinates": [
+            45.339176,
+            -64.786205
+        ],
+        "address": "3554 Route 209",
+        "lot_data": [
+            40881,
+            3798
+        ]
+    },
+    {
+        "coordinates": [
+            44.81215,
+            -63.61404
+        ],
+        "address": "70 Thomas Dr",
+        "lot_data": [
+            182962,
+            16998
+        ]
+    },
+    {
+        "coordinates": [
+            45.41654,
+            -63.59894
+        ],
+        "address": "8743 Highway 2",
+        "lot_data": [
+            26208,
+            2435
+        ]
+    },
+    {
+        "coordinates": [
+            45.58333,
+            -62.64135
+        ],
+        "address": "307 Marsh St",
+        "lot_data": [
+            17869,
+            1660
+        ]
+    },
+    {
+        "coordinates": [
+            45.067305,
+            -64.101571
+        ],
+        "address": "3328 Hwy 215",
+        "lot_data": [
+            42314,
+            3931
+        ]
+    },
+    {
+        "coordinates": [
+            43.841661,
+            -65.054825
+        ],
+        "address": "1630 Highway 103",
+        "lot_data": [
+            98660,
+            9166
+        ]
+    }
+]
