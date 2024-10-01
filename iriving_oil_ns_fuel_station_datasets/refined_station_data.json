@@ -1,5 +1,262 @@
 [
     {
+        "id": 0,
+        "distribution_data": {
+            "Type": {
+                "Overhead": 107,
+                "Underground": 7
+            },
+            "Phase": {
+                "Three Phase": 100,
+                "Single Phase": 13,
+                "Two Phase": 1
+            },
+            "VoltageKV": {
+                "24.94": 54,
+                "12.47": 42,
+                "7.2": 8,
+                "4.16": 5,
+                "14.4": 5
+            },
+            "VoltagekVLL": {
+                "24.94": 60,
+                "12.47": 50,
+                "4.16": 4
+            },
+            "FeederPV": {
+                "min": 130,
+                "max": 14000,
+                "mean": 5315,
+                "median": 4272,
+                "mode": 14000,
+                "zero_count": 7
+            },
+            "DistZonePV": {
+                "min": 130,
+                "max": 19389,
+                "mean": 5905,
+                "median": 4377,
+                "mode": 8286,
+                "zero_count": 7
+            }
+        },
+        "lot_data": {
+            "square_feet": {
+                "min": 3924,
+                "max": 101492,
+                "mean": 44193,
+                "median": 42314,
+                "mode": 58613,
+                "zero_count": 0
+            },
+            "square_meter": {
+                "min": 365,
+                "max": 9429,
+                "mean": 4106,
+                "median": 3931,
+                "mode": 5445,
+                "zero_count": 0
+            }
+        },
+        "solar_data": {
+            "general_data": {
+                "PVOUT_csi": {
+                    "min": 1121,
+                    "max": 1313,
+                    "mean": 1265,
+                    "median": 1272,
+                    "mode": 1229,
+                    "zero_count": 0
+                },
+                "DNI": {
+                    "min": 1025,
+                    "max": 1341,
+                    "mean": 1264,
+                    "median": 1282,
+                    "mode": 1293,
+                    "zero_count": 0
+                },
+                "GHI": {
+                    "min": 1157,
+                    "max": 1310,
+                    "mean": 1262,
+                    "median": 1270,
+                    "mode": 1274,
+                    "zero_count": 0
+                },
+                "DIF": {
+                    "min": 552,
+                    "max": 582,
+                    "mean": 564,
+                    "median": 564,
+                    "mode": 564,
+                    "zero_count": 0
+                },
+                "GTI_opta": {
+                    "min": 1317,
+                    "max": 1544,
+                    "mean": 1487,
+                    "median": 1497,
+                    "mode": 1508,
+                    "zero_count": 0
+                },
+                "OPTA": {
+                    "min": 33,
+                    "max": 39,
+                    "mean": 36,
+                    "median": 37,
+                    "mode": 37,
+                    "zero_count": 0
+                },
+                "TEMP": {
+                    "min": 6,
+                    "max": 8,
+                    "mean": 7,
+                    "median": 7,
+                    "mode": 8,
+                    "zero_count": 0
+                },
+                "ELE": {
+                    "min": 2,
+                    "max": 136,
+                    "mean": 35,
+                    "median": 22,
+                    "mode": 7,
+                    "zero_count": 0
+                }
+            },
+            "small_residential": {
+                "PVOUT_specific": {
+                    "min": 1074,
+                    "max": 1262,
+                    "mean": 1214,
+                    "median": 1220,
+                    "mode": 1252,
+                    "zero_count": 0
+                },
+                "PVOUT_total": {
+                    "min": 1074,
+                    "max": 1262,
+                    "mean": 1214,
+                    "median": 1220,
+                    "mode": 1252,
+                    "zero_count": 0
+                },
+                "DNI": {
+                    "min": 1051,
+                    "max": 1355,
+                    "mean": 1282,
+                    "median": 1298,
+                    "mode": 1331,
+                    "zero_count": 0
+                },
+                "GTI": {
+                    "min": 1309,
+                    "max": 1541,
+                    "mean": 1480,
+                    "median": 1491,
+                    "mode": 1512,
+                    "zero_count": 0
+                }
+            },
+            "medium_size_commercial": {
+                "PVOUT_specific": {
+                    "min": 1064,
+                    "max": 1247,
+                    "mean": 1201,
+                    "median": 1208,
+                    "mode": 1234,
+                    "zero_count": 0
+                },
+                "PVOUT_total": {
+                    "min": 106351,
+                    "max": 124725,
+                    "mean": 120068,
+                    "median": 120794,
+                    "mode": 123429,
+                    "zero_count": 0
+                },
+                "DNI": {
+                    "min": 1051,
+                    "max": 1355,
+                    "mean": 1282,
+                    "median": 1298,
+                    "mode": 1331,
+                    "zero_count": 0
+                },
+                "GTI": {
+                    "min": 1309,
+                    "max": 1541,
+                    "mean": 1480,
+                    "median": 1491,
+                    "mode": 1512,
+                    "zero_count": 0
+                }
+            }
+        },
+        "outage_data": {
+            "outage_causes": {
+                "High Winds and Rain": 102,
+                "Cause Being Investigated": 91,
+                "Transmission Interruption": 86,
+                "High Winds": 80,
+                "High Winds and Snow": 62,
+                "Damage to Overhead Equipment": 62,
+                "Emergency Repair of Lines": 44,
+                "Vehicle Accident": 44,
+                "Trees On Line": 44,
+                "Planned Maintenance": 34,
+                "Freezing Rain": 26,
+                "Lightning": 17,
+                "Fire": 17,
+                "Under Investigation": 16,
+                "Emergency outage for public safety": 13,
+                "Damage to Transmission Equipment": 10,
+                "Heavy Snowfall": 10,
+                "Wildlife Interference": 10,
+                "Patrolling Lines": 7,
+                "Outage requested by local authorities": 3,
+                "Damage to Equipment": 2,
+                "Trees on Line": 1,
+                "Salt Contamination": 1,
+                "Partial Power": 1,
+                "Damage to Underground Equipment": 1
+            },
+            "average_outage_time_in_mins": {
+                "min": 247,
+                "max": 1670,
+                "mean": 815,
+                "median": 802,
+                "mode": 1223,
+                "zero_count": 0
+            },
+            "average_outage_time_in_hours": {
+                "min": 4,
+                "max": 28,
+                "mean": 14,
+                "median": 13,
+                "mode": 20,
+                "zero_count": 0
+            },
+            "average_outages_per_year": {
+                "min": 1,
+                "max": 7,
+                "mean": 3,
+                "median": 3,
+                "mode": 3,
+                "zero_count": 0
+            },
+            "total_outages_since_2021": {
+                "min": 2,
+                "max": 23,
+                "mean": 11,
+                "median": 10,
+                "mode": 9,
+                "zero_count": 0
+            }
+        }
+    },
+    {
         "id": 1,
         "station_data": {
             "address": "9319 Commercial St., New Minas, Nova Scotia B4N 3G2",
